@@ -1,0 +1,21 @@
+# Syntax Coloring Map For StreamCommander
+
+# Datatypes (KEYWORD1)
+MessageType KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+# none
+
+# Instances (KEYWORD2)
+# none
+
+# Constants (LITERAL1)
+RESPONSE LITERAL1
+INFO LITERAL1
+ERROR LITERAL1
+STATUS LITERAL1
+ID LITERAL1
+ACTIVE LITERAL1
+ECHO LITERAL1
+COMMANDS LITERAL1
+COMMAND LITERAL1
